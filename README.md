@@ -1,3 +1,3 @@
 # hello-world
 Intro guide
-Born in the 90s. Studied mechanical engineering
+Born in the 90s. 
